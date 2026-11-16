@@ -1,5 +1,6 @@
 "use client"
 import React, { useState, useId, useRef, useEffect } from 'react'
+import './my-mexico-redesign.css'
 import { type Locale } from '@/lib/content'
 import ItinerarySimulation from './ItinerarySimulation'
 import { exportGuidePDF } from '@/lib/pdf-export'

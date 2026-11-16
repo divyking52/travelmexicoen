@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import './styles.css'
+import '../components/my-mexico-redesign.css'
 
 export const metadata: Metadata = {
   title: 'My México. My Way. · Travel México',
